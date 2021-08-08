@@ -4,6 +4,10 @@ import { Card } from "./components";
 
 function ProductListing() {
   const { data } = useDataContext();
-  return <>{data && data.map((i, idx) => <Card details={i} key={idx} />)}</>;
+  return (
+    <div className="flex-layout jc-center ai-center">
+      {data && data.map((i, idx) => <Card details={i} key={idx} />)}
+    </div>
+  );
 }
 export { ProductListing };
