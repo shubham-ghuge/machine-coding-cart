@@ -1,0 +1,101 @@
+[
+  {
+    "id": "001",
+    "brand": "Louis Phillepe",
+    "name": "Men slim fit Jeans",
+    "actualPrice": 2199,
+    "price": 879,
+    "discount": 60,
+    "gender": "Men",
+    "sizes": ["SM", "LG"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kltryq80/shirt/n/4/j/40-lrsfcslfe00989-louis-philippe-jeans-original-imagyuygnfk3qyzb.jpeg?q=50"
+  },
+  {
+    "id": "002",
+    "brand": "Helmont",
+    "name": "Men Hoodie",
+    "actualPrice": 999,
+    "price": 211,
+    "discount": 77,
+    "gender": "Men",
+    "sizes": ["SM", "MD", "LG"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kph8h3k0/fabric/t/p/y/no-unstitched-36-retort-fashion-original-imag3pjuyxugkp6d.jpeg?q=50"
+  },
+  {
+    "id": "003",
+    "brand": "Florida",
+    "name": "Solid, Something Caps",
+    "actualPrice": 499,
+    "price": 289,
+    "discount": 42,
+    "gender": "Men",
+    "sizes": ["SM", "MD"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/keykscw0-0/t-shirt/l/d/q/3xl-bmrgyrnful-z12-blive-original-imafvgzkyjghf7ba.jpeg?q=50"
+  },
+  {
+    "id": "004",
+    "brand": "Blive",
+    "name": "Striped Men Tshirt",
+    "actualPrice": 1399,
+    "price": 266,
+    "discount": 80,
+    "gender": "Men",
+    "sizes": ["SM", "LG", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kfk0e4w0-0/t-shirt/c/l/0/xxl-tblwtylrn-d27-tripr-original-imafvzjm8gs3kyga.jpeg?q=50"
+  },
+  {
+    "id": "005",
+    "brand": "TRIPR",
+    "name": "Color Men Round Tshirt",
+    "actualPrice": 1399,
+    "price": 319,
+    "discount": 80,
+    "gender": "Men",
+    "sizes": ["SM", "LG", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kf75fgw0-0/t-shirt/y/i/l/xxl-tnv-rd-ogrrnabs1-tripr-original-imafvpfmtz8syqzd.jpeg?q=50"
+  },
+  {
+    "id": "006",
+    "brand": "Jockey",
+    "name": "Men Ankle Length",
+    "actualPrice": 1599,
+    "price": 879,
+    "discount": 80,
+    "gender": "Men",
+    "sizes": ["SM", "LG", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/kmxsakw0/sock/9/o/m/free-12-jock-12-jocky-original-imagfqeuvetbw5fw.jpeg?q=50"
+  },
+  {
+    "id": "007",
+    "brand": "JuneBerry",
+    "name": "Cute top",
+    "actualPrice": 1199,
+    "price": 499,
+    "discount": 62,
+    "gender": "Women",
+    "sizes": ["MD"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/khcb7gw0/top/y/5/x/l-jb-tsh-td-space-cat-juneberry-original-imafxdfrbf6nzyym.jpeg?q=50"
+  },
+  {
+    "id": "008",
+    "brand": "Silkova",
+    "name": "Casual Cutoff Solid Top",
+    "actualPrice": 1999,
+    "price": 273,
+    "discount": 86,
+    "gender": "Women",
+    "sizes": ["SM", "LG", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/k52s58w0/top/z/q/a/s-anshu-36-anshu-fashions-original-imafgnzubfhet7yt.jpeg?q=50"
+  },
+  {
+    "id": "009",
+    "brand": "God Bless",
+    "name": "Regular Long Sleeves Top",
+    "actualPrice": 1299,
+    "price": 379,
+    "discount": 70,
+    "gender": "Women",
+    "sizes": ["SM", "XL"],
+    "image": "https://rukminim1.flixcart.com/image/540/648/k3dc7m80/top/g/r/a/xs-gbk1165-god-bless-original-imafmhswbqdygtdv.jpeg?q=50"
+  }
+]
